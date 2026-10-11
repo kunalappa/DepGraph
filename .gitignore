@@ -1,0 +1,10 @@
+*.class
+*.jar
+target/
+build/
+out/
+node_modules/
+.env
+.idea/
+.vscode/
+.DS_Store
